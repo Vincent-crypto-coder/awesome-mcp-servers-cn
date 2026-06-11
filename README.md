@@ -143,6 +143,7 @@
 | 名称 | 描述 | 国内可用 | 安装 |
 |------|------|----------|------|
 | [image-gen](https://github.com/purpars/mcp-image-gen) | 图片生成（DALL-E） | ⚠️ 需要 OpenAI | `pip install mcp-image-gen` |
+| [runapi](https://github.com/runapi-ai/mcp) | AI 图片、视频、音乐/音频和其他模型 API 任务 | ⚠️ 需要 API Key | `npx -y @runapi.ai/mcp` |
 | [elevenlabs](https://github.com/purpars/elevenlabs-mcp) | 文字转语音 | ⚠️ 需要 API Key | `npx elevenlabs-mcp` |
 | [youtube](https://github.com/anaisbetts/mcp-youtube) | YouTube 视频/字幕 | ⚠️ 需要代理 | `npx mcp-youtube` |
 | [spotify](https://github.com/varunneal/spotify-mcp) | Spotify 音乐控制 | ⚠️ 需要代理 | `npx spotify-mcp` |
