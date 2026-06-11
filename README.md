@@ -137,6 +137,7 @@
 | [wikipedia](https://github.com/nicholasoxford/mcp-wikipedia) | Wikipedia 查询 | ⚠️ 中文 Wikipedia 可用 | `npx mcp-wikipedia` |
 | [wolframalpha](https://github.com/SecretiveShell/MCP-wolfram-alpha) | Wolfram Alpha 计算 | ✅ | `pip install mcp-wolfram-alpha` |
 | [perplexity](https://github.com/purpars/perplexity-mcp) | Perplexity AI 搜索 | ⚠️ 需要代理 | `npx perplexity-mcp` |
+| [xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter 数据搜索、批量提取、Webhook 与确认后发帖 | ⚠️ 需要 API Key | `https://xquik.com/mcp` |
 
 ## 媒体与创意
 
