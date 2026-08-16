@@ -85,6 +85,7 @@
 |------|------|----------|------|
 | [puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) | 浏览器自动化（截图、点击） | ✅ | `npx @modelcontextprotocol/server-puppeteer` |
 | [playwright](https://github.com/executeautomation/mcp-playwright) | Playwright 浏览器控制 | ✅ | `pip install mcp-playwright` |
+| [Agent QA](https://github.com/vostride/agent-qa) | 通过自然语言定义、验证、运行和排查 Web 与移动端测试；浏览器、设备和模型服务需单独配置 | ⚠️ 取决于所配置服务 | `npx -y agent-qa mcp` |
 | [firecrawl](https://github.com/mendableai/firecrawl-mcp-server) | 网页爬取 + Markdown 转换 | ⚠️ 需要 API Key | `npm install firecrawl-mcp` |
 | [brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) | Brave 搜索引擎 | ⚠️ 需要 API Key | `npx @modelcontextprotocol/server-brave-search` |
 | [tavily](https://github.com/tavily-ai/tavily-mcp) | Tavily AI 搜索 | ⚠️ 需要 API Key | `npx tavily-mcp` |
