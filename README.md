@@ -88,6 +88,7 @@
 | [firecrawl](https://github.com/mendableai/firecrawl-mcp-server) | 网页爬取 + Markdown 转换 | ⚠️ 需要 API Key | `npm install firecrawl-mcp` |
 | [brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) | Brave 搜索引擎 | ⚠️ 需要 API Key | `npx @modelcontextprotocol/server-brave-search` |
 | [tavily](https://github.com/tavily-ai/tavily-mcp) | Tavily AI 搜索 | ⚠️ 需要 API Key | `npx tavily-mcp` |
+| [statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. | ✅ 远程 | `https://statsnet.co/mcp` |
 
 ## 开发工具
 
