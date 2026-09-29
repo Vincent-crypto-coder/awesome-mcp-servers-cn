@@ -137,6 +137,7 @@
 | [wikipedia](https://github.com/nicholasoxford/mcp-wikipedia) | Wikipedia 查询 | ⚠️ 中文 Wikipedia 可用 | `npx mcp-wikipedia` |
 | [wolframalpha](https://github.com/SecretiveShell/MCP-wolfram-alpha) | Wolfram Alpha 计算 | ✅ | `pip install mcp-wolfram-alpha` |
 | [perplexity](https://github.com/purpars/perplexity-mcp) | Perplexity AI 搜索 | ⚠️ 需要代理 | `npx perplexity-mcp` |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | 开发者 alpha Rust 知识库；加密追加记录，通过限定范围且有到期时间的授权提供 MCP 检索 | ⚠️ 本地运行；国内下载及客户端连接未实测 | [源码安装与授权配置](https://github.com/louis030195/hyperconsciousness#install-from-source)，在源码目录执行 `cargo build --release --locked` |
 
 ## 媒体与创意
 
