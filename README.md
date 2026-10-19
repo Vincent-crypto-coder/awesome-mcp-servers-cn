@@ -118,6 +118,7 @@
 | [notion](https://github.com/makenotion/notion-mcp-server) | Notion 页面/数据库 | ✅ | `npx @notionhq/notion-mcp-server` |
 | [google-calendar](https://github.com/nsprovidence/google-calendar-mcp) | Google 日历 | ⚠️ 需要 Google | `npx google-calendar-mcp` |
 | [feishu](https://github.com/nicholasoxford/feishu-mcp) | 飞书消息/文档 | ✅ | `pip install feishu-mcp` |
+| [9bot](https://github.com/9-bot/mcp) | 管理、自动化和分析 WhatsApp 群组、社区和频道：内容审核、反垃圾、定时消息、成员管理和数据分析（远程 MCP，OAuth 登录） | ⚠️ 需要 WhatsApp 账号 | 远程 MCP：`https://mcp.9bot.com.br/mcp`（Streamable HTTP） |
 
 ## AI 与 LLM
 
