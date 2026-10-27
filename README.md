@@ -40,6 +40,7 @@
 - [搜索与知识](#搜索与知识)
 - [媒体与创意](#媒体与创意)
 - [智能家居](#智能家居)
+- [金融与支付](#金融与支付)
 - [中国生态](#中国生态)
 - [如何使用](#如何使用)
 - [如何贡献](#如何贡献)
@@ -153,6 +154,12 @@
 |------|------|----------|------|
 | [homeassistant](https://github.com/allenporter/mcp-server-home-assistant) | Home Assistant 控制 | ✅ | `pip install mcp-server-home-assistant` |
 | [hue](https://github.com/bartvanandel/mcp-hue) | Philips Hue 灯光 | ✅ | `npx mcp-hue` |
+
+## 金融与支付
+
+| 名称 | 描述 | 国内可用 | 安装 |
+|------|------|----------|------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | 检查 x402 报价、准备有界支付、查询状态和收据的本地 stdio 工具；仅支持 Apple Silicon macOS 和 Node 24 | ⚠️ 国内商家/RPC 网络可用性未验证 | `brew install nuanu-ai/tap/apn` |
 
 ## 中国生态
 
